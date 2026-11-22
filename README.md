@@ -48,7 +48,11 @@ Download, trim, convert, play, record, and analyze media — all in one applicat
 
 ## 📱 Platform
 
-**Target:** Android ARM64 (`arm64-v8a`)
+**Target:** Android
+
+**Supported architectures:**
+- ARM64 (`arm64-v8a`)
+- x86_64 (`x86_64`)
 
 ## 📸 Screenshots
 

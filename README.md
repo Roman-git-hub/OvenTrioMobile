@@ -1,3 +1,28 @@
+<details>
+<summary><strong>📸 VIEW SCREENSHOTS (6) — CLICK TO OPEN</strong></summary>
+
+<h3>🎬 Oven Trio Mobile — Android Screenshots</h3>
+
+<p><strong>🏠 Main Screen</strong></p>
+<p><img src="docs/screenshots/main.jpg" width="350" alt="Oven Trio Mobile Main Screen"></p>
+
+<p><strong>📥 Video Downloader</strong></p>
+<p><img src="docs/screenshots/downloader.jpg" width="350" alt="Oven Trio Mobile Video Downloader"></p>
+
+<p><strong>✂️ Video Trimmer</strong></p>
+<p><img src="docs/screenshots/trim.jpg" width="350" alt="Oven Trio Mobile Video Trimmer"></p>
+
+<p><strong>🔄 Media Converter</strong></p>
+<p><img src="docs/screenshots/converter.jpg" width="350" alt="Oven Trio Mobile Media Converter"></p>
+
+<p><strong>▶️ Media Player</strong></p>
+<p><img src="docs/screenshots/player.jpg" width="350" alt="Oven Trio Mobile Media Player"></p>
+
+<p><strong>📊 File Information</strong></p>
+<p><img src="docs/screenshots/file-info.jpg" width="350" alt="Oven Trio Mobile File Information"></p>
+
+</details>
+
 # 🎬 Oven Trio Mobile
 
 **All-in-One Multimedia Studio for Android**

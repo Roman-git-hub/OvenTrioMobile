@@ -54,10 +54,6 @@ Download, trim, convert, play, record, and analyze media — all in one applicat
 - ARM64 (`arm64-v8a`)
 - x86_64 (`x86_64`)
 
-## 📸 Screenshots
-
-Screenshots will be added as development progresses.
-
 ## 📦 Releases
 
 No public release is available yet.

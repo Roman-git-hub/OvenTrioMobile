@@ -64,7 +64,7 @@ Download, trim, convert, play, record, and analyze media — all in one applicat
 - Screen and audio recording.
 - Recording configuration and output management.
 
-- ### 🌍 Automatic Language Detection & Localization
+### 🌍 Automatic Language Detection & Localization
 
 - Automatically detects the device's system language.
 - Adapts the application interface to the detected language when a corresponding localization is available.

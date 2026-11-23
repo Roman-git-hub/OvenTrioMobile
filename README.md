@@ -64,6 +64,13 @@ Download, trim, convert, play, record, and analyze media — all in one applicat
 - Screen and audio recording.
 - Recording configuration and output management.
 
+- ### 🌍 Automatic Language Detection & Localization
+
+- Automatically detects the device's system language.
+- Adapts the application interface to the detected language when a corresponding localization is available.
+- Provides automatic fallback to the default language when necessary.
+- No manual language configuration required.
+
 ## 🛠️ Technology
 
 - .NET MAUI / C#
